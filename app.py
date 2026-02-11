@@ -1023,7 +1023,7 @@ elif page == "📚 Documentation":
         )
 
         st.image(
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hoover_Dam_aerial_view.jpg/1200px-Hoover_Dam_aerial_view.jpg",
+            "https://www.edf.fr/sites/groupe/files/styles/img_465x260/public/2025-08/edfgroup_comprendre_hydro_barrage_type-poids_1066x595.jpg?itok=EaUq5BrS",
             caption="Exemple de barrage-poids: Barrage Hoover",
             use_container_width=True,
         )
@@ -1047,7 +1047,7 @@ elif page == "📚 Documentation":
         )
 
         st.image(
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Barrage_de_Monteynard_-_2.JPG/1200px-Barrage_de_Monteynard_-_2.JPG",
+            "https://www.edf.fr/sites/groupe/files/styles/img_465x260/public/2025-08/edfgroup_comprendre_hydro_barrage_type-voute_1066x595.jpg?itok=F3OgLhyA",
             caption="Exemple de barrage-voûte: Barrage de Monteynard",
             use_container_width=True,
         )
@@ -1071,7 +1071,7 @@ elif page == "📚 Documentation":
         )
 
         st.image(
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TGD_Dam.jpg/1200px-TGD_Dam.jpg",
+            "https://www.edf.fr/sites/groupe/files/styles/img_465x260/public/2025-08/edfgroup_comprendre_hydro_barrage_type-contreforts_1066x595.jpg?itok=lo8bOpoC",
             caption="Exemple de barrage en remblai: Barrage des Trois Gorges",
             use_container_width=True,
         )
@@ -1323,7 +1323,7 @@ elif page == "ℹ️ À propos":
         
         Pour toute question, suggestion ou collaboration:
         - 📧 Email: contact@dam-monitor.com
-        - 🌐 Site web: www.dam-monitor.com
+        - 🌐 Site web: https://www.edf.fr/groupe-edf/comprendre/production/hydraulique/formes-de-barrages
         """
         )
 
