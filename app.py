@@ -515,7 +515,7 @@ elif page == "🔍 Classification":
     # Upload multiple images
     uploaded_files = st.file_uploader(
         "📤 Sélectionnez une ou plusieurs images",
-        type=["jpg", "jpeg", "png"],
+        type=["jpg", "jpeg", "png", "tif"],
         accept_multiple_files=True,
         help="Formats acceptés: JPG, JPEG, PNG",
     )
